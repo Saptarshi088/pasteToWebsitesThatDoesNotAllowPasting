@@ -52,5 +52,4 @@ This project depends on the following Python libraries:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ultra-fast-text-typer.git
-   cd ultra-fast-text-typer
+   git clone https://github.com/Saptarshi088/pasteToWebsitesThatDoesNotAllowPasting.git
